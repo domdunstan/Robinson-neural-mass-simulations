@@ -71,7 +71,7 @@ end
 ################################################################
 #### Absence seizure example
 
-# Solve model for qbsence seizure parameter set
+# Solve model for absence seizure parameter set
 tau = parameters_absence_seizure[7]
 lags = [tau / 2]
 
@@ -96,7 +96,7 @@ plot(time2,phi_e2, xlabel = "Time (s)",ylabel = "Solution \u03C6\u2091", legend 
 
 
 #############################################################
-#### Tonic clonic seizure example
+#### Tonic-clonic seizure example
 
 # Solve model for qbsence seizure parameter set
 tau = parameters_tonic_clonic_seizure[7]
@@ -124,7 +124,7 @@ plot(time2,phi_e2, xlabel = "Time (s)",ylabel = "Solution \u03C6\u2091", legend 
 
 
 #########################################################
-#### Resting seizure example
+#### Resting state example
 
 # Solve model for qbsence seizure parameter set
 tau = parameters_resting_example[7]
