@@ -6,5 +6,4 @@ We refer to https://doi.org/10.1103/PhysRevE.65.041924 and https://doi.org/10.10
 
 Examples of model simulations during an absence seizure, a tonic-clonic seizure, and a resting state are provided.
 
-Please email me if you have any questions: d.dunstan@exeter.ac.uk
-
+Please email me if you have any questions: domdunstan2@gmail.com
